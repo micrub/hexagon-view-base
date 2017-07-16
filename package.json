@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Base hexagon pod view component.",
   "main": "index.ejs",
+  "authors": [
+    "Michael Rubanov <mrubanov@gmail.com>"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +18,6 @@
     "view",
     "base"
   ],
-  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/micrub/hexagon-view-base/issues"
