@@ -1,0 +1,21 @@
+{
+  "name": "haxagon-pod-view-base",
+  "homepage": "git@github.com:micrub/hexagon-view-base.git",
+  "authors": [
+    "Michael Rubanov <mrubanov@gmail.com>"
+  ],
+  "description": "Base hexagon pod ejs template, `Bootstrap` v3.3.7 included.",
+  "main": "index.html.ejs",
+  "keywords": [
+    "hexagon",
+    "view"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
